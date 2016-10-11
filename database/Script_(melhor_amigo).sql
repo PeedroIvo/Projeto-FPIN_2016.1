@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS `melhor_amigo` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+CREATE DATABASE IF NOT EXISTS `melhor_amigo_teste` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
-USE `melhor_amigo`;
+USE `melhor_amigo_teste`;
 
 
 CREATE TABLE `t_usuario` (
