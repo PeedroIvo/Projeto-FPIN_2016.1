@@ -1,0 +1,17 @@
+redirect para a mesma página quando atualizar cães
+pedir a padrinho para apadrinhar outro cão, ao deixar o cão dele indisponível
+implementar paginamento na listas do admin
+
+Área do Administrador
+    * Somente usuário Administrador
+          - Dar e tirar privilégios de administrador para outros usuários [?]
+          - Demitir voluntário
+
+Apagar Cães [?]
+
+Verificar se o email digitado está cadastrado (esqueci_a_senha.php) [?]
+
+<online>
+http://www.biz.nf/
+http://melhoramigo.co.nf/
+</online>
