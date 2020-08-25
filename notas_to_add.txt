@@ -13,5 +13,5 @@ Verificar se o email digitado está cadastrado (esqueci_a_senha.php) [?]
 
 <online>
 http://www.biz.nf/
-http://melhoramigo.co.nf/
+http://melhoramigo.c1.biz/index.php
 </online>
